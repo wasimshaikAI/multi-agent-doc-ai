@@ -1,2 +1,12 @@
-# multi-agent-doc-ai
-A multi-agent AI system that classifies and processes PDF, JSON, and Email documents, routes them to specialized agents (Invoice, RFQ, Complaint, etc.), and logs shared context using a lightweight memory module. 
+# Multi-Agent Document Processing System
+
+This system accepts PDF, JSON, or Email inputs and:
+- Detects format and intent
+- Routes to specialized agent (JSON, Email, or PDF)
+- Extracts structured data
+- Logs shared context using a lightweight memory store
+
+---
+
+## 🏗 Folder Structure
+
