@@ -17,4 +17,4 @@ multi-agent-doc-ai/
 ├── main.py
 ├── requirements.txt
 ├── README.md
-└── live-demo.mp4  ← (Optional but allowed since it's under 118 MB)
+└── live-demo.mp4  
