@@ -10,13 +10,12 @@ An intelligent multi-agent system that processes unstructured inputs (PDF, JSON,
 - `sample_inputs/` – Sample input files
 - `output_logs/` – Logs of sample runs
 
-## 🎥 Demo Video
 ## 🎥 Demo Video  
 ▶️ [Click to Watch the Demo](https://github.com/wasimshaikAI/multi-agent-doc-ai/raw/refs/heads/main/live-demo.mp4)
 
 ## 📦 How to Run
 ```bash
-git clone https://github.com/yourusername/multi-agent-system
-cd multi-agent-system
+git clone https://github.com/wasimshaikAI/multi-agent-doc-ai.git
+cd multi-agent-doc-ai
 pip install -r requirements.txt
 python main.py --input sample_inputs/sample.json
