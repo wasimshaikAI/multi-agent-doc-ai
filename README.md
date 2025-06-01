@@ -1,17 +1,21 @@
 # 🧠 Multi-Agent AI System – Flowbit Challenge Submission
 
-## 🚀 Overview
-An intelligent multi-agent system that processes unstructured inputs (PDF, JSON, Email), classifies the format and intent, routes them to specialized agents, and shares context through a shared memory module.
+## 🚀 Overview  
+An intelligent multi-agent system that processes unstructured documents (PDF, JSON, Email), automatically detects the format and intent, routes them to specialized agents, and shares context via a shared memory module.
 
-## 📁 Folder Structure
-- `agents/` – Specialized agents for PDF, JSON, and Email
-- `memory/` – Shared memory module
-- `router/` – Format & intent classification
-- `sample_inputs/` – Sample input files
-- `output_logs/` – Logs of sample runs
+## 📁 Folder Structure  
+- `agents/` – Specialized agents for PDF, JSON, and Email  
+- `memory/` – Shared memory module  
+- `router/` – Format & intent classification logic  
+- `sample_inputs/` – Sample input files for testing  
+- `output_logs/` – Sample output logs and screenshots  
 
 ## 🎥 Demo Video  
 ▶️ [Click to Watch the Demo](https://github.com/wasimshaikAI/multi-agent-doc-ai/raw/refs/heads/main/live-demo.mp4)
+
+## 🖼️ Output Screenshots  
+View screenshots of the system in action:  
+📸 [Output Screenshots Folder](https://github.com/wasimshaikAI/multi-agent-doc-ai/tree/main/multi_agent_system/output%20ss)
 
 ## 📦 How to Run
 ```bash
