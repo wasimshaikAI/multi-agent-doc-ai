@@ -11,7 +11,8 @@ An intelligent multi-agent system that processes unstructured inputs (PDF, JSON,
 - `output_logs/` – Logs of sample runs
 
 ## 🎥 Demo Video
-[Click to Watch the Demo]((https://github.com/wasimshaikAI/multi-agent-doc-ai/blob/main/live-demo.mp4))
+## 🎥 Demo Video  
+[![Watch the Demo](https://img.shields.io/badge/▶️-Watch_Demo-blue)](https://youtu.be/your_video_id)
 
 ## 📦 How to Run
 ```bash
