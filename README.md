@@ -4,12 +4,26 @@
 An intelligent multi-agent system that processes unstructured documents (PDF, JSON, Email), automatically detects the format and intent, routes them to specialized agents, and shares context via a shared memory module.
 
 ## 📁 Folder Structure  
-- `agents/` – Specialized agents for PDF, JSON, and Email  
-- `memory/` – Shared memory module  
-- `router/` – Format & intent classification logic  
-- `sample_inputs/` – Sample input files for testing  
-- `output_logs/` – Sample output logs and screenshots  
-
+multi-agent-doc-ai/
+├── agents/
+│ ├── pdf_agent.py # Handles PDF inputs and extraction
+│ ├── json_agent.py # Handles structured JSON validation
+│ └── email_agent.py # Processes email content
+├── memory/
+│ └── shared_memory.py # Lightweight shared memory module
+├── router/
+│ └── intent_router.py # Classifies format and intent
+├── sample_inputs/
+│ ├── sample.json # Example structured JSON input
+│ ├── sample.pdf # Sample PDF for testing
+│ └── sample_email.txt # Raw email text format
+├── output_logs/
+│ ├── run_log.txt # Output logs after processing
+│ └── screenshot.png # Output screenshot
+├── main.py # Main execution script
+├── requirements.txt # List of Python dependencies
+├── README.md # Project documentation (this file)
+└── live-demo.mp4 # (Optional) Video demo under 118 MB
 ## 🎥 Demo Video  
 ▶️ [Click to Watch the Demo](https://github.com/wasimshaikAI/multi-agent-doc-ai/raw/refs/heads/main/live-demo.mp4)
 
