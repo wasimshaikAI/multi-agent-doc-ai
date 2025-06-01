@@ -1,0 +1,72 @@
+{
+  "invoice_number": "INV-2025-1001",
+  "date": "2025-05-30",
+  "customer_name": "Enterprise Solutions International",
+  "customer_contact": {
+    "name": "Alice Johnson",
+    "phone": "+1-555-123-4567",
+    "email": "alice.johnson@enterprise.com"
+  },
+  "billing_address": {
+    "street": "789 Industrial Park Road",
+    "city": "Metropolis",
+    "state": "NY",
+    "zip": "10001",
+    "country": "USA"
+  },
+  "shipping_address": {
+    "street": "101 Warehouse Blvd",
+    "city": "Metropolis",
+    "state": "NY",
+    "zip": "10002",
+    "country": "USA"
+  },
+  "items": [
+    {
+      "item_id": "PROD-100",
+      "description": "Advanced Server Rack",
+      "quantity": 15,
+      "unit_price": 2500.00,
+      "discount": 0.05
+    },
+    {
+      "item_id": "PROD-200",
+      "description": "Enterprise Router X2000",
+      "quantity": 10,
+      "unit_price": 1800.00,
+      "discount": 0.1
+    },
+    {
+      "item_id": "PROD-300",
+      "description": "Fiber Optic Cables - 100m rolls",
+      "quantity": 50,
+      "unit_price": 75.00,
+      "discount": 0
+    },
+    {
+      "item_id": "PROD-400",
+      "description": "Rack Mount Power Supply",
+      "quantity": 20,
+      "unit_price": 150.00,
+      "discount": 0.07
+    },
+    {
+      "item_id": "PROD-500",
+      "description": "Cooling System Unit",
+      "quantity": 5,
+      "unit_price": 1200.00,
+      "discount": 0.0
+    }
+  ],
+  "payment_terms": "Net 30 days",
+  "delivery_terms": "FOB Origin",
+  "subtotal": 83575.00,
+  "tax_rate": 0.08,
+  "tax": 6686.00,
+  "total_amount": 90261.00,
+  "notes": "Thank you for your prompt payment and valued partnership. Please contact us for any issues.",
+  "attachments": [
+    "terms_conditions.pdf",
+    "warranty_info.pdf"
+  ]
+}

@@ -1,0 +1,9 @@
+From: jane.doe@example.com
+Subject: Request for Quotation (RFQ)
+
+Hi Sales Team,
+
+We would like to request a quotation for 500 units of your Widget Pro. Please send the price list at the earliest.
+
+Regards,
+Jane Doe
