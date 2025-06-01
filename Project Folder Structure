@@ -1,0 +1,20 @@
+multi-agent-doc-ai/
+├── agents/
+│   ├── pdf_agent.py
+│   ├── json_agent.py
+│   └── email_agent.py
+├── memory/
+│   └── shared_memory.py
+├── router/
+│   └── intent_router.py
+├── sample_inputs/
+│   ├── sample.json
+│   ├── sample.pdf
+│   └── sample_email.txt
+├── output_logs/
+│   ├── run_log.txt
+│   └── screenshot.png
+├── main.py
+├── requirements.txt
+├── README.md
+└── live-demo.mp4  ← (Optional but allowed since it's under 118 MB)
